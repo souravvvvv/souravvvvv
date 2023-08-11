@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @souravvvvv
-- 👀 I’m interested in ...open source software development / IoT / embaded system
-- 🌱 I’m currently learning ...Bash  / Linux
+- 👋 Hi, I’m Sourav Shome
+- 👀 I’m interested in ...Problem Solving / IoT / embaded system
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shomesourav32@gmail.com
 
