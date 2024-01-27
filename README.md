@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourav Shome
-- 👀 I’m interested in ...Problem Solving / IoT / embaded system
+- 👀 I’m interested in ...Problem Solving 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shomesourav32@gmail.com
